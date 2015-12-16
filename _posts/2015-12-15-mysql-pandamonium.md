@@ -2,7 +2,8 @@
 layout: post
 title:  "Mysql Pandamonium"
 date:   2015-12-15 12:51:10
-categories: mysql database utf8 charsets emoji utf8mb4 indexes performance
+categories:
+author: laurelfan
 ---
 
 So we were doing some scaling work to prepare for <a href="https://hourofcode.com">Hour of Code</a> last week. Part of this was looking at the mysql server logs for slow queries.
