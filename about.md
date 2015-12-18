@@ -10,4 +10,4 @@ We're the developers at <a href="https://code.org">Code.org</a>, a non-profit de
 
 Our code is all <a href="https://github.com/code-dot-org/code-dot-org">open source</a>.
 
-We are currently hiring Software Engineers and an Engineering Manager/Chief Architect. For more information check out our <a href="">jobs page</a>.
+We are currently hiring Software Engineers and an Engineering Manager/Chief Architect. For more information check out our <a href="https://code.org/about/jobs">jobs page</a>.
